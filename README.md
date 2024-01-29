@@ -1,6 +1,5 @@
 # React Tailwind CSS Modal Project
 
-This project is a template for creating a React application using Vite as the build tool. It provides a minimal setup with Hot Module Replacement (HMR) and some ESLint rules.
 
 ## Main Technologies and Frameworks
 
