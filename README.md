@@ -34,4 +34,4 @@ The `package.json` file specifies the project's dependencies and scripts. The ma
 
 The dependencies include React, React DOM, and React Icons for the application's functionality. The devDependencies include various tools and plugins required for development, such as Vite, ESLint, Tailwind CSS, and PostCSS.
 
-## Deployed link is here :
+## Deployed link is here : https://samir-mulla.github.io/react-tailwindcss-modal/
