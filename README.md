@@ -1,5 +1,20 @@
-# React Tailwind CSS Modal Project
+# React Tailwind CSS Modal Project :
 
+<br>
+
+# project UI
+
+<br>
+
+## Button
+
+![alt text](src/assets/modal-project-UI-1.png)
+
+<br>
+
+## Modal
+
+![alt text](src/assets/modal-project-UI-2.png)
 
 ## Main Technologies and Frameworks
 
@@ -15,11 +30,11 @@ The codebase is organized as follows:
 - The root directory contains configuration files such as `.eslintrc.cjs`, `.gitignore`, `package-lock.json`, `package.json`, `postcss.config.js`, `tailwind.config.js`, and `vite.config.js`.
 - The `public` directory contains the `index.html` file and the `vite.svg` asset.
 - The `src` directory contains the main source code of the application.
- - The `App.jsx` file is the entry point of the React application.
- - The `assets` directory contains the `react.svg` asset.
- - The `components` directory contains reusable React components such as `Button.jsx` and `Modal.jsx`.
- - The `index.css` file contains the global CSS styles for the application.
- - The `main.jsx` file is responsible for rendering the `App` component.
+- The `App.jsx` file is the entry point of the React application.
+- The `assets` directory contains the `react.svg` asset.
+- The `components` directory contains reusable React components such as `Button.jsx` and `Modal.jsx`.
+- The `index.css` file contains the global CSS styles for the application.
+- The `main.jsx` file is responsible for rendering the `App` component.
 
 ## Scripts
 
@@ -34,4 +49,6 @@ The `package.json` file specifies the project's dependencies and scripts. The ma
 
 The dependencies include React, React DOM, and React Icons for the application's functionality. The devDependencies include various tools and plugins required for development, such as Vite, ESLint, Tailwind CSS, and PostCSS.
 
-## Deployed link is here : https://samir-mulla.github.io/react-tailwindcss-modal/
+### Deployed link is here :
+
+https://samir-mulla.github.io/react-tailwindcss-modal/
